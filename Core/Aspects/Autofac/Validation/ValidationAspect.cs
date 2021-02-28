@@ -32,3 +32,4 @@ namespace Core.Aspects.Autofac.Validation
             }
         }
     }
+}
